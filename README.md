@@ -1,5 +1,11 @@
 # Open Words
 
+## Notice: this project has moved
+
+This project has moved to [its own repository](https://github.com/blagae/whitakers_words).
+
+Due to the fact that I am doing different stuff than the original author of open_words intended and in order not to clash with them if I ever decide to release the project as a package, I have decided to move away from this fork and to maintain a separate repository which will host any subsequent changes to the code base.
+
 ## Project history
 
 Open Words is a port of William Whitaker's original Ada code to Python for future maintenance and improvement.
